@@ -1,0 +1,17 @@
+C:\Users\topuz\source\repos\tenteci\DataAccessLayer\bin\Debug\DataAccessLayer.dll.config
+C:\Users\topuz\source\repos\tenteci\DataAccessLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\topuz\source\repos\tenteci\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\topuz\source\repos\tenteci\DataAccessLayer\bin\Debug\EntityFramework.dll
+C:\Users\topuz\source\repos\tenteci\DataAccessLayer\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\topuz\source\repos\tenteci\DataAccessLayer\bin\Debug\EntityLayer.dll
+C:\Users\topuz\source\repos\tenteci\DataAccessLayer\bin\Debug\EntityLayer.pdb
+C:\Users\topuz\source\repos\tenteci\DataAccessLayer\bin\Debug\EntityLayer.dll.config
+C:\Users\topuz\source\repos\tenteci\DataAccessLayer\bin\Debug\EntityFramework.xml
+C:\Users\topuz\source\repos\tenteci\DataAccessLayer\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\topuz\source\repos\tenteci\DataAccessLayer\obj\Debug\DataAccessLayer.csprojAssemblyReference.cache
+C:\Users\topuz\source\repos\tenteci\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\topuz\source\repos\tenteci\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.CopyComplete
+C:\Users\topuz\source\repos\tenteci\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+C:\Users\topuz\source\repos\tenteci\DataAccessLayer\obj\Debug\DataAccessLayer.pdb
+C:\Users\topuz\source\repos\tenteci\DataAccessLayer\obj\Debug\DataAccessLayer.Migrations.mig1.resources
+C:\Users\topuz\source\repos\tenteci\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.GenerateResource.cache
